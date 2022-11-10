@@ -1,0 +1,33 @@
+body {
+    font-family: Roboto sans serif;
+}
+h1{
+    text-align: center;
+    color: rgb(223, 175, 17);
+}
+.header{
+    font-style: inherit;
+}
+
+.cat{
+ height: 100 px;
+
+.marign{
+width: 100 px;
+height: 100 px;
+border: 1px saddlebrown;
+margin:  0 auto;
+margin-top: 50px;
+}
+.btn{
+width: 200 px;
+height: 50 px;
+border: 1 px solid black;
+color: aqua;
+text-decoration:none;
+padding: 10px 20 px;
+border-radius: 20 px;
+background-color: bisque;
+cursor: ;
+}
+.btn:hover 
